@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <Link to="/" className="flex items-center mb-4">
-            <img src="../static/logo.png" alt="Logo"  className='h-6 w-10'/>
+            <img src="../public/logo.png" alt="Logo"  className='h-6 w-10'/>
               <span className="ml-2 text-xl font-serif">Mahaai ayuveda</span>
             </Link>
             <p className="text-sage-300">Ancient wisdom for modern wellness</p>

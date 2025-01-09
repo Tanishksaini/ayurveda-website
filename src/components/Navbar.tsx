@@ -20,7 +20,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
-          <img src="../static/logo.png"  className="h-12 w-14"alt="Logo" />
+          <img src="../public/logo.png"  className="h-12 w-14"alt="Logo" />
             <span className="ml-2 text-2xl font-serif text-sage-900">Mahaai ayuveda</span>
           </Link>
 
